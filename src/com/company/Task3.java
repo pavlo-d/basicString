@@ -1,9 +1,10 @@
 package com.company;
 
-public class Task2 {
+public class Task3 {
 
   public static void main(String[] args) {
-    // Перевірити чи дві стрічки є анаграмами одна одній ("Що таке анаграма?" -> Google).
+    // Вивести на екран перший символ який не повторюється в стрічці (наприклад в стрічці "Java" -
+    // це символ "J").
 
   }
 }

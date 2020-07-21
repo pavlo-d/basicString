@@ -1,9 +1,9 @@
 package com.company;
 
-public class Task2 {
+public class Task5 {
 
   public static void main(String[] args) {
-    // Перевірити чи дві стрічки є анаграмами одна одній ("Що таке анаграма?" -> Google).
+    // Перевірити чи стрічка складається лише з чисел.
 
   }
 }

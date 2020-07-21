@@ -1,9 +1,10 @@
 package com.company;
 
-public class Task2 {
+public class Task9 {
 
   public static void main(String[] args) {
-    // Перевірити чи дві стрічки є анаграмами одна одній ("Що таке анаграма?" -> Google).
+    // Знайти всі слова промарковані хештегами в тексті, вивести на екран кожне слово і скільки
+    // разів воно зустрічається. Наприклад для "This is #hashtag." -> "hashtag - 1".
 
   }
 }

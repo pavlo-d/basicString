@@ -1,9 +1,10 @@
 package com.company;
 
-public class Task2 {
+public class Task7 {
 
   public static void main(String[] args) {
-    // Перевірити чи дві стрічки є анаграмами одна одній ("Що таке анаграма?" -> Google).
+    // Вивести на екран всі комбінації стрічки не використовуючи рекурсію (наприклад "abc", "bca",
+    // "cba", "acb", і тд).
 
   }
 }
