@@ -19,7 +19,7 @@ public class Task8 {
 
   public static boolean isPalindrome(String s) {
 
-    if ((s != null) || (s.length() != 0)) {
+    if ((s != null) && (s.length() != 0)) {
       StringBuilder inputString = new StringBuilder();
       inputString.append(s);
       if (s.equals(inputString.reverse().toString())) {
