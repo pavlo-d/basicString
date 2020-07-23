@@ -10,7 +10,6 @@ public class Task5 {
     String regexDigits = "[0-9]+";
 
     for (int i = 0; i < testStrings.length; i++) {
-
       System.out.println(testStrings[i] + " ==> " + testStrings[i].matches(regexDigits));
     }
   }
